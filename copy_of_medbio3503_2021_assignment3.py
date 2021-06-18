@@ -11,38 +11,12 @@ Original file is located at
 
 """# Assignment 3 - Image Processing with Python 
 
-**Assigned:** March 11, 2021
 
-**Due:** March 25, 2021, 11:55pm
-
-**34 Total Marks**
 
 ## Instructions:
 For this assignment, you will complete code blocks to answer questions, using the `print()` function to print out your answer where needed, and using plots where requested. 
 
-### Before beginning:
 
-* Make a copy of this assignment in your own account
-* Ensure you are able to edit and save changes (close and re-open to make sure)
-
-### During the assignment:
-
-* Run your code often to test it
-* Use `Runtime`->`Restart and run all...` when you are ready to submit, to test how it will run when graded. 
-
-### To submit:
-
-* Click the `Share` button, and copy the link. Paste this link in the OWL assignment submission.
-* In case there are any issues with sharing, please also download and submit the `.ipynb` file on OWL as the assignment attachment (`File` -> `Download .ipynb`) .
-
-Enter your name here:Yuan Chun Jiang
-
-
-Enter your student number here:251015477
-
-### Initial import and loading image
-
-The following code imports the required libraries, and also loads in an image of the retina. Run this code to complete the following related questions
 """
 
 import numpy as np
